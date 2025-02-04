@@ -1,0 +1,7 @@
+bin
+*.exe
+*.out
+*.test
+go.sum
+.idea
+.vscode
